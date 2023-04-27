@@ -1,0 +1,14 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#map {
+    width:1024px; 
+    height:768px;
+}
